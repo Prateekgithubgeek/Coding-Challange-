@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\coding challange\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe.config
+C:\Users\pc\Desktop\coding challange\OrderManagementSystem\bin\Debug\OrderManagementSystem.exe
+C:\Users\pc\Desktop\coding challange\OrderManagementSystem\bin\Debug\OrderManagementSystem.pdb
+C:\Users\pc\Desktop\coding challange\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\coding challange\OrderManagementSystem\obj\Debug\OrderManagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\coding challange\OrderManagementSystem\obj\Debug\OrderManagementSystem.exe
+C:\Users\pc\Desktop\coding challange\OrderManagementSystem\obj\Debug\OrderManagementSystem.pdb
